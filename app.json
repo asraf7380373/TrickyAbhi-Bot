@@ -1,5 +1,5 @@
 {
-    "name": "TrickyAbhi-Bot",
+    "name": "earningappgroupmenagement-Bot",
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/SJMxADITI/TrickyAbhi-Bot",
+ "repository": "https://github.com/asraf7380373/TrickyAbhi-Bot",
  "addons": [
     {
        "options": {
@@ -19,7 +19,7 @@
  ],
  "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/asraf7380373/heroku-buildpack-ffmpeg-latest"
     },
     {
       "url": "heroku/python"
@@ -59,7 +59,7 @@
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "ABHIISH3K_xD"
+       "value": "earn464"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
